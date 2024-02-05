@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Repositorio de prueba-Modulo2-Henry
+Esto es una prueba de como crear un repositorio y clonarlo desde gitub a la computadora
